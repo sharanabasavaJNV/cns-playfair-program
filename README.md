@@ -1,4 +1,4 @@
-This resp includes 14 programs of Computer Network Security labarotary As per VTU/SIT.These are mentioned below.
+This resp includes 14 programs of Cryptography and Network Security labarotary As per VTU/SIT.These are mentioned below.
 Questions:
 1) Write a program to perform the following using Playfair cipher technique
 (i) Encrypt a given message M with different keys {k1,k2,…,kn}. Print key and cipher text pair
