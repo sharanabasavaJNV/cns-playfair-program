@@ -73,7 +73,8 @@ string rabinMiller(int n)
     cout << n-1 << " = 2^" << k << " * " << q << endl;
     cout << "k = " << k << "\nq = " << q << "\na = " << a << endl;
 
-     
+    
+    
     if(powModN(a,q,n) == 1) return "inconclusive";
 
     for(int j=0; j<k ; j++)
